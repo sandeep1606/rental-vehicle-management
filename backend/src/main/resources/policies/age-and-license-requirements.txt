@@ -1,0 +1,18 @@
+Rental Vehicle Management - Age and License Requirements
+
+1. Renters must be at least 21 years old and hold a valid driver's license that has
+   been held for at least 1 year.
+
+2. Renters between 21 and 24 years old are subject to a young-driver surcharge per
+   day; the exact amount depends on the vehicle category and branch.
+
+3. A valid government-issued photo ID and a valid driver's license must be presented
+   at pickup. International renters must present a passport and, if their license is
+   not in English, an International Driving Permit.
+
+4. Luxury and specialty vehicles (e.g. convertibles, high-performance models) may
+   require renters to be at least 25 years old, at the branch manager's discretion.
+
+5. Customers on the blacklist (for example due to unresolved damage disputes or
+   repeated late returns) are not permitted to rent until the issue is resolved with
+   branch management.

@@ -1,0 +1,5 @@
+# Activated via SPRING_PROFILES_ACTIVE=docker in docker-compose.yml.
+# No overrides needed here: docker-compose already supplies DB_URL, REDIS_HOST,
+# REDIS_PORT, etc. as environment variables, which application.yml's
+# ${DB_URL:...} / ${REDIS_HOST:...} placeholders pick up directly. This profile
+# file exists as an explicit extension point for docker-only configuration.

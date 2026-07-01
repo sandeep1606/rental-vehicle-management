@@ -1,0 +1,16 @@
+Rental Vehicle Management - Insurance and Damage Policy
+
+1. All rentals include basic third-party liability coverage by default.
+
+2. Optional Collision Damage Waiver (CDW) can be added at pickup for an additional
+   daily fee that varies by vehicle type; ask branch staff for the current rate for
+   a specific vehicle, since it is not fixed system-wide.
+
+3. Customers are responsible for a damage deductible of up to $500 for any damage
+   to the vehicle during the rental period, unless CDW was purchased.
+
+4. Any accident, no matter how minor, must be reported to the branch and to local
+   authorities before the vehicle is returned.
+
+5. Smoking in vehicles, and driving off paved roads in a vehicle not rated for
+   off-road use, voids all damage coverage.

@@ -1,0 +1,16 @@
+Rental Vehicle Management - Late Return Policy
+
+1. Vehicles must be returned by the planned end date and time selected at booking.
+
+2. A grace period of 2 hours after the planned end time is allowed with no penalty.
+
+3. Returns after the grace period are charged a late fee for each additional day
+   (or part of a day) the vehicle is kept, calculated as:
+   late fee per day = daily rate x 1.5
+
+4. If a vehicle is more than 3 days late and the customer cannot be reached,
+   the branch may report the vehicle as unrecovered to local authorities.
+
+5. Customers who know in advance that they will return late should contact the
+   branch to extend the rental where availability allows, which is cheaper than
+   paying the late fee.

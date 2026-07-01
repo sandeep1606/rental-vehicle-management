@@ -1,0 +1,17 @@
+Rental Vehicle Management - Cancellation Policy
+
+1. Reservations may be cancelled free of charge up to 24 hours before the scheduled
+   pickup time.
+
+2. Cancellations made within 24 hours of pickup are subject to a cancellation fee
+   equal to one day's rental rate for the reserved vehicle.
+
+3. No-shows (customer does not arrive within 3 hours of the scheduled pickup time
+   and does not contact the branch) are treated as a cancellation within 24 hours
+   and are charged the one-day cancellation fee.
+
+4. Cancellation fees are automatically refunded if the branch is unable to provide
+   the reserved vehicle type at pickup time.
+
+5. To cancel a reservation, use the "Cancel" action on the reservation in the app,
+   call the branch directly, or ask the AI assistant to cancel a reservation by ID.

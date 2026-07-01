@@ -1,0 +1,14 @@
+Rental Vehicle Management - Fuel and Mileage Policy
+
+1. All vehicles are provided with a full tank of fuel and must be returned with a
+   full tank. Vehicles returned with less fuel are charged a refueling fee plus the
+   cost of the missing fuel at local pump prices.
+
+2. Standard rentals include unlimited mileage unless otherwise stated on the rental
+   agreement for commercial or one-way rentals.
+
+3. Electric vehicles must be returned charged to at least 80%; a charging fee
+   applies for vehicles returned below that threshold.
+
+4. One-way rentals between branches may include a drop fee; ask branch staff or the
+   AI assistant for branch availability before booking a one-way rental.
